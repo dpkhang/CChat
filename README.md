@@ -18,6 +18,10 @@ Phần backend: view tới đâu tui làm tới đó, bạn nào biết rồi th
 
 Mấy bạn xem video dưới đây nha, có thắc mắc gì mình call.  
 
+Về git thì ai chưa biết tự tìm hiểu nha
+đầu tiên tạo 1 cái local repo
+Xong pull cái link này về
+Có Push gì thì phải tạo một nhánh branch mới nha,KHÔNG PUSH TRỰC TIẾP NHÁNH MAIN
 Bạn nào muốn tìm hiểu kĩ về cái này thì đây là link.
 * Buổi 1: Giới thiệu mô hình MVC
 https://www.youtube.com/watch?v=CasgqSBvOMY
