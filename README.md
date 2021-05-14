@@ -22,6 +22,8 @@ Về git thì ai chưa biết tự tìm hiểu nha
 đầu tiên tạo 1 cái local repo
 Xong pull cái link này về
 Có Push gì thì phải tạo một nhánh branch mới nha,KHÔNG PUSH TRỰC TIẾP NHÁNH MAIN
+
+///PHP MVC
 Bạn nào muốn tìm hiểu kĩ về cái này thì đây là link.
 * Buổi 1: Giới thiệu mô hình MVC
 https://www.youtube.com/watch?v=CasgqSBvOMY
